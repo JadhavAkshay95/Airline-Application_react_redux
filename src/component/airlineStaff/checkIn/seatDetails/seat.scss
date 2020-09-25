@@ -1,0 +1,23 @@
+.seat {
+  height: 28px;
+  width: 33px;
+  margin: 10px;
+  span {
+    font-size: x-small;
+    font-weight: 700;
+    font-family: cursive;
+  }
+}
+
+.selectedSeat {
+  @extend.seat;
+  border: 4px dashed orange;
+
+  border-radius: 27px;
+}
+
+.seatMapFooter {
+  button {
+    margin: 20px;
+  }
+}

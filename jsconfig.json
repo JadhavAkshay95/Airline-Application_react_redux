@@ -1,0 +1,10 @@
+{
+  "include": ["src/*"],
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "target": "es6"
+  },
+  "exclude": ["node_modules"]
+}

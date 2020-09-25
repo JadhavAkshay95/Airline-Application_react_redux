@@ -1,0 +1,78 @@
+.airline-staff-dashboard-container {
+  .title {
+    margin: 2% 0%;
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .cart {
+    height: 100%;
+    margin: 5%;
+    padding: 2%;
+    background-color: beige;
+    border-top: 5px solid #00b383;
+    button {
+      margin-top: 4%;
+    }
+    .description {
+      margin: 5% 5%;
+      padding: 1%;
+    }
+    &:hover {
+      box-shadow: 0px 0px 5px #00b383;
+      border-radius: 10px;
+      button {
+        box-shadow: 0px 0px 5px #00b383;
+      }
+    }
+  }
+}
+
+.inflight-modal {
+  position: relative;
+  svg {
+    color: #00b383;
+  }
+}
+.passenger-name {
+  margin: 0px 10px;
+  color: #707070;
+}
+
+.change-meal-modal-container {
+  @extend .passenger-name;
+
+  .meal-checkbox {
+    @extend .inflight-modal;
+  }
+}
+
+.change-services-modal-container {
+  @extend .passenger-name;
+  .modal-content {
+    border-left: 5px solid #00b383;
+    fieldset {
+      .MuiIconButton-label {
+        color: #00b383;
+      }
+    }
+  }
+  .service-checkbox {
+    text-align: justify;
+    @extend .inflight-modal;
+    right: 0%;
+  }
+  .service-checkbox1 {
+    @extend .inflight-modal;
+    h5 {
+      position: relative;
+      right: 1%;
+    }
+  }
+}
+
+.extra-service {
+  .extra-service-title {
+    float: left;
+    margin: 10px 5px;
+  }
+}

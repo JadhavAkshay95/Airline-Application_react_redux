@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render manage service component Render manage service modal 1`] = `ShallowWrapper {}`;
+
+exports[`Render manage service component Render manage service modal 2`] = `ShallowWrapper {}`;

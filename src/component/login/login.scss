@@ -1,0 +1,47 @@
+.fb-login {
+  button {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 2px 2px 0px,
+      rgba(0, 0, 0, 0.24) 0px 0px 1px 0px;
+    padding: 10px;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+.login-container {
+  border-left: 1px solid green;
+
+  .login-logo {
+    position: relative;
+    top: 30%;
+  }
+  .flight-intro {
+    margin: 10px;
+    .app-title {
+      margin: 20px 0px;
+      svg {
+        float: none;
+      }
+    }
+    .flight-intro-desc {
+      margin: 8% 10%;
+      color: grey;
+    }
+  }
+  .flight-intro-desc-more {
+    color: grey;
+    margin: 8% 10%;
+  }
+}
+
+.fb-login {
+  button {
+    padding: 5px;
+  }
+}
+.add-margin {
+  margin-left: 30%;
+}

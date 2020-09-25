@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render login side info component Render login side info 1`] = `ShallowWrapper {}`;
+
+exports[`Render login side info component Render login side info 2`] = `ShallowWrapper {}`;

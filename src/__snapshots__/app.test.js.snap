@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render app component Render login modal 1`] = `ShallowWrapper {}`;

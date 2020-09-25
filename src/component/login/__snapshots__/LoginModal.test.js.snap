@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render login modal component Render login modal 1`] = `ShallowWrapper {}`;
+
+exports[`Render login modal component Render login modal 2`] = `ShallowWrapper {}`;

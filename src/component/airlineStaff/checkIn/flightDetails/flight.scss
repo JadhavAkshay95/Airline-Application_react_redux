@@ -1,0 +1,55 @@
+.fromLocation {
+  display: inline-block;
+}
+
+.spinner {
+  width: 100px;
+  height: 100px;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+.flightCart {
+  height: 80%;
+}
+
+.flight-list {
+  box-shadow: 0px 0px 5px silver;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  &:hover {
+    box-shadow: 0px 0px 5px #00b383;
+    border-radius: 10px;
+  }
+}
+
+.backLink {
+  display: flow-root;
+  float: left;
+  margin: 10px 0px;
+  &:hover {
+    color: #00b383 !important;
+  }
+}
+.flight-button {
+  background-color: #00b383;
+  margin: 2%;
+  &:hover {
+    background-color: #00b383 !important;
+    box-shadow: 0px 0px 5px #00b383;
+  }
+}
+.items {
+  margin: 1%;
+  background-color: aliceblue;
+  padding: 1%;
+  border: 1px solid #00b383;
+  display: inline-block;
+}

@@ -1,0 +1,82 @@
+.modal-content {
+  padding: 10px;
+  border-left: 10px solid #00b383 !important;
+
+  .form-header {
+    text-align: center;
+    h2 {
+      display: inline-block;
+    }
+  }
+
+  .field-header {
+    text-align: left;
+    margin: 10px 0px;
+  }
+
+  .form-button {
+    margin: 0px 10px;
+  }
+}
+
+.passenger-list-container {
+  .passenger-list-title {
+    .passenger-list-title-desc {
+      display: inline-block;
+    }
+    .add-passenger-button {
+      margin: 1%;
+      float: right;
+    }
+  }
+}
+
+.passenger-row-container {
+  button {
+    margin: 10px;
+    background-color: rgb(0, 179, 131);
+  }
+
+  &:hover {
+    button {
+      background-color: rgb(0, 179, 131);
+      box-shadow: 0px 0px 5px #00b383;
+    }
+  }
+}
+.passenger-table-container {
+  margin: 20px;
+}
+
+.passenger-filter-container {
+  input {
+    color: 'yellow';
+  }
+  input {
+    color: #00b383;
+  }
+  svg {
+    color: #00b383;
+  }
+}
+
+.add-new-services {
+  fieldset {
+    position: relative;
+    right: 39%;
+  }
+  svg {
+    color: #00b383;
+  }
+}
+
+.choose-seat {
+  .form-group {
+    label {
+      display: flex;
+    }
+  }
+}
+.makeStyles-textField-2 {
+  margin: 15px;
+}

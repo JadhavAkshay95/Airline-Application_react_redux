@@ -1,0 +1,26 @@
+.passenger-form-container {
+  margin: 10px;
+  padding: 10px;
+  .is-invalid {
+    border: 1px solid red;
+  }
+  .modal-content {
+    padding: 5%;
+    border-left: 10px solid #00b383;
+    a {
+      svg {
+        float: right;
+      }
+    }
+    button {
+      float: right;
+      background-color: #00b383;
+    }
+    .required-Field {
+      color: red;
+    }
+    .field {
+      text-align: left;
+    }
+  }
+}

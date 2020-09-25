@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render logo component Render logo  1`] = `ShallowWrapper {}`;

@@ -1,0 +1,1617 @@
+{
+  "passengerList": [
+    {
+      "id": "1",
+      "name": {
+        "firstName": "Sanket",
+        "lastName": "Ghule",
+        "middleName": "A"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-01-15",
+      "passportDetails": {
+        "passportNumber": "A2761298",
+        "citizen": "Indiamn",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [
+        "extraBaggage",
+        "lounge",
+        "paidMeal",
+        "entertainment"
+      ],
+      "shoppingItems": [
+        "eyeMask",
+        "usb",
+        "pillow"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "95"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": true,
+      "meal": "nonVeg"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "awe"
+      },
+      "dateOfBirth": "2020-01-23",
+      "passportDetails": {
+        "passportNumber": "123",
+        "citizen": "12",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [
+        "Extra Baggage",
+        "paidMeal",
+        "lounge",
+        "entertainment"
+      ],
+      "shoppingItems": [
+        "eyeMask",
+        "pillow",
+        "usb",
+        "headPhone"
+      ],
+      "seatDetails": {
+        "flightNumber": "f2",
+        "seatNumber": "2"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": true
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "PeDzTfl"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "test",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "Pune",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-01-14",
+      "passportDetails": {
+        "passportNumber": "123",
+        "citizen": "Indian1",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [
+        "extraBaggage",
+        "paidMeal"
+      ],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "93"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": true
+      },
+      "checkIn": true,
+      "checkOut": true,
+      "meal": "veg",
+      "id": "qr1LKIi"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-01-14",
+      "passportDetails": {
+        "passportNumber": "12345",
+        "citizen": "Indiamn",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f2",
+        "seatNumber": "5"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": true,
+      "meal": "veg",
+      "id": "Jup2KSS"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "testy"
+      },
+      "dateOfBirth": "2020-01-30",
+      "passportDetails": {
+        "passportNumber": "90",
+        "citizen": "india",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f2",
+        "seatNumber": "14"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "4QGn6V4"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket1",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "testy1"
+      },
+      "dateOfBirth": "2020-01-30",
+      "passportDetails": {
+        "passportNumber": "909",
+        "citizen": "india",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [
+        "extraBaggage"
+      ],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f2",
+        "seatNumber": "24"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": true,
+      "meal": "vegan",
+      "id": "7e1oiRH"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-01-16",
+      "passportDetails": {
+        "passportNumber": "123",
+        "citizen": "india",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f3",
+        "seatNumber": "3"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "vDQbNzp"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD"
+      },
+      "dateOfBirth": "2020-01-24",
+      "passportDetails": {
+        "passportNumber": "12345",
+        "citizen": "Pune",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f4",
+        "seatNumber": "3"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "0JsAi1i"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "test",
+        "middleName": "test",
+        "lastName": "test"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "test",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-01-23",
+      "passportDetails": {
+        "passportNumber": "12334",
+        "citizen": "indian",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [
+        "extraBaggage"
+      ],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "55"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "LxxBJ5c"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "test data",
+        "middleName": "",
+        "lastName": "test data"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "test data",
+        "societyDetails": "test data"
+      },
+      "dateOfBirth": "2020-01-22",
+      "passportDetails": {
+        "passportNumber": "12",
+        "citizen": "india",
+        "expiryDate": "2020-01"
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "42"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "3AOR--L"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "test",
+        "citizen": "Indian",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "82"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": true,
+      "checkOut": true,
+      "meal": "veg",
+      "id": "IaOFDiB"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Viskal",
+        "middleName": "",
+        "lastName": "test"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "123",
+        "citizen": "Indian",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "12"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": true,
+      "meal": "nonVeg",
+      "id": "XF5fWBY"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "test",
+        "middleName": "",
+        "lastName": "test"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "7"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "3ie8OwC"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "aaaa",
+        "middleName": "",
+        "lastName": "aaaaaa"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "73"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "GEOuL_z"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD"
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "75"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "ZOlvmOT"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Aniket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-02-11T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "12334",
+        "citizen": "Pune",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "45"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "9dqzKbP"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "vikaswe",
+        "middleName": "A",
+        "lastName": "nale"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD"
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "74"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "YbkWteA"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket12",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "testy"
+      },
+      "dateOfBirth": "2020-02-24T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "aaaa",
+        "citizen": "Indiamn",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "8"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "DWsktzs"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "Test11111"
+      },
+      "dateOfBirth": "2020-02-12T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "12334",
+        "citizen": "qqqqqq",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "1"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "ojMHOd0"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-02-11T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "test",
+        "citizen": "qqqqqq",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "9"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "veg",
+      "id": "90NKL-8"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "qwerty",
+        "middleName": "A",
+        "lastName": "123"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "Test"
+      },
+      "dateOfBirth": "2020-02-03T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "test",
+        "citizen": "Indian",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "5"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "veg",
+      "id": "ioM9oBq"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Vijay1",
+        "middleName": "",
+        "lastName": "Bhosale1"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "test1",
+        "societyDetails": "test1"
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "1231",
+        "citizen": "Indian1",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [
+        "extraBaggage"
+      ],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "87"
+      },
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": true
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "veg",
+      "id": "SzQAmdi"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "vijaya",
+        "middleName": "A",
+        "lastName": "Nemade"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "test"
+      },
+      "dateOfBirth": "2020-02-19T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "A12",
+        "citizen": "Indian",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "96"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": true,
+      "checkOut": false,
+      "meal": "nonVeg",
+      "id": "zKSGkTV"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD"
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "96"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "Nf7zgeP"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "test one",
+        "middleName": "",
+        "lastName": "test two"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "57"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "",
+      "id": "XRHWxc0"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "2",
+        "middleName": "",
+        "lastName": "2"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "shoppingItems": [
+        "eyeMask"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "27"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "",
+      "id": "SoNy-M1"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD"
+      },
+      "dateOfBirth": "2020-02-11T18:30:00.000Z",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "31"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "",
+      "id": "5qkGQ62"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Sanket",
+        "middleName": "A",
+        "lastName": "Ghule"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": "PIMPRI CHINCHWAD",
+        "societyDetails": "aa"
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "a",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "19"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "",
+      "id": "CUrYuaJ"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Dishant",
+        "middleName": "",
+        "lastName": "Lande"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "8"
+      },
+      "passengerStatus": {
+        "infant": false,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "",
+      "id": "n8Nlxcr"
+    },
+    {
+      "passengerId": "",
+      "name": {
+        "firstName": "Jitan",
+        "middleName": "atma",
+        "lastName": "Kale"
+      },
+      "address": {
+        "flatDetails": "",
+        "city": ""
+      },
+      "dateOfBirth": "",
+      "passportDetails": {
+        "passportNumber": "",
+        "citizen": "",
+        "expiryDate": ""
+      },
+      "ancillaryServices": [
+        "extraBaggage"
+      ],
+      "seatDetails": {
+        "flightNumber": "f1",
+        "seatNumber": "99"
+      },
+      "shoppingItems": [],
+      "passengerStatus": {
+        "infant": true,
+        "wheelChair": false
+      },
+      "checkIn": false,
+      "checkOut": false,
+      "meal": "vegan",
+      "id": "NkizK3x"
+    }
+  ],
+  "flightList": [
+    {
+      "id": "f1",
+      "flightCompany": {
+        "name": "Air India",
+        "logo": "airindia.jpg",
+        "type": "Economy"
+      },
+      "time": {
+        "boardingTime": "12.55 AM",
+        "deparatureTime": "3",
+        "duration": "2 hr",
+        "type": "non-stop"
+      },
+      "flightSource": "Pune",
+      "flightDest": "Bengluru",
+      "stops": [
+        "Mumbai"
+      ],
+      "facility": [
+        {
+          "label": "Extra Baggage",
+          "value": "extraBaggage",
+          "isSelected": true
+        },
+        {
+          "label": "Paid Meal",
+          "value": "paidMeal",
+          "isSelected": true
+        },
+        {
+          "label": "in-flight entertainment",
+          "value": "entertainment",
+          "isSelected": true
+        },
+        {
+          "label": "Lounge facilities",
+          "value": "lounge",
+          "isSelected": true
+        }
+      ],
+      "shoppingItems": [
+        {
+          "label": "Eye mask",
+          "value": "eyeMask",
+          "isSelected": true
+        },
+        {
+          "label": "Head phone",
+          "value": "headPhone",
+          "isSelected": false
+        },
+        {
+          "label": "USB Cable",
+          "value": "usb",
+          "isSelected": true
+        },
+        {
+          "label": "Travel Pillow",
+          "value": "pillow",
+          "isSelected": true
+        }
+      ],
+      "totalSeat": 100,
+      "passengerId": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f2",
+      "flightCompany": {
+        "name": "Air lines",
+        "logo": "airlines.jpg"
+      },
+      "time": {
+        "boardingTime": "10.00 PM",
+        "deparatureTime": "3",
+        "duration": "2 hr",
+        "type": "non-stop"
+      },
+      "stops": [
+        "Mumbai"
+      ],
+      "flightSource": "Pune",
+      "flightDest": "Bengluru",
+      "facility": [
+        {
+          "label": "Extra Baggage",
+          "value": "Extra Baggage",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "paidMeal",
+          "value": "paidMeal",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "in-flight entertainment",
+          "value": "entertainment",
+          "isSelected": true
+        },
+        {
+          "label": "Lounge facilities",
+          "value": "lounge",
+          "isSelected": true
+        }
+      ],
+      "shoppingItems": [
+        {
+          "label": "Eye mask",
+          "value": "eyeMask",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "Head phone",
+          "selected": true,
+          "value": "headPhone",
+          "isSelected": true
+        },
+        {
+          "label": "USB Cable",
+          "value": "usb",
+          "isSelected": true
+        },
+        {
+          "label": "Travel Pillow",
+          "value": "pillow",
+          "isSelected": true
+        }
+      ],
+      "totalSeat": 100,
+      "passengerId": [
+        1
+      ]
+    },
+    {
+      "id": "f3",
+      "flightCompany": {
+        "name": "Air travel",
+        "logo": "airtravel.jpg"
+      },
+      "time": {
+        "boardingTime": "10.00 PM",
+        "deparatureTime": "3",
+        "duration": "4 hr",
+        "type": "non-stop"
+      },
+      "stops": [
+        "Mumbai",
+        "Bengluru"
+      ],
+      "flightSource": "Pune",
+      "flightDest": "Chennai",
+      "facility": [
+        {
+          "label": "Extra Baggage",
+          "value": "Extra Baggage",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "paidMeal",
+          "value": "paidMeal",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "in-flight entertainment",
+          "value": "entertainment",
+          "isSelected": true
+        },
+        {
+          "label": "Lounge facilities",
+          "value": "lounge",
+          "isSelected": true
+        }
+      ],
+      "shoppingItems": [
+        {
+          "label": "Eye mask",
+          "value": "eyeMask",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "Head phone",
+          "selected": true,
+          "value": "headPhone",
+          "isSelected": true
+        },
+        {
+          "label": "USB Cable",
+          "value": "usb",
+          "isSelected": true
+        },
+        {
+          "label": "Travel Pillow",
+          "value": "pillow",
+          "isSelected": true
+        }
+      ],
+      "totalSeat": 100,
+      "passengerId": []
+    },
+    {
+      "id": "f4",
+      "flightCompany": {
+        "name": "Air tran",
+        "logo": "airtran.jpg"
+      },
+      "time": {
+        "boardingTime": "10.00 PM",
+        "deparatureTime": "3",
+        "duration": "4 hr",
+        "type": "non-stop"
+      },
+      "stops": [
+        "Mumbai",
+        "Bengluru"
+      ],
+      "flightSource": "Pune",
+      "flightDest": "Chennai",
+      "facility": [
+        {
+          "label": "Extra Baggage",
+          "value": "Extra Baggage",
+          "selected": true
+        },
+        {
+          "label": "paidMeal",
+          "value": "paidMeal",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "in-flight entertainment",
+          "value": "entertainment",
+          "isSelected": true
+        },
+        {
+          "label": "Lounge facilities",
+          "value": "lounge",
+          "isSelected": true
+        }
+      ],
+      "shoppingItems": [
+        {
+          "label": "Eye mask",
+          "value": "eyeMask",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "Head phone",
+          "selected": true,
+          "value": "headPhone"
+        },
+        {
+          "label": "USB Cable",
+          "value": "usb",
+          "isSelected": true
+        },
+        {
+          "label": "Travel Pillow",
+          "value": "pillow",
+          "isSelected": true
+        }
+      ],
+      "totalSeat": 100,
+      "passengerId": []
+    },
+    {
+      "id": "f5",
+      "flightCompany": {
+        "name": "Air India",
+        "logo": "airindia.jpg"
+      },
+      "time": {
+        "boardingTime": "10.00 PM",
+        "deparatureTime": "3",
+        "duration": "4 hr",
+        "type": "non-stop"
+      },
+      "stops": [
+        "Mumbai",
+        "Bengluru"
+      ],
+      "flightSource": "Pune",
+      "flightDest": "Chennai",
+      "facility": [
+        {
+          "label": "Extra Baggage",
+          "value": "Extra Baggage",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "paidMeal",
+          "value": "paidMeal",
+          "selected": true
+        }
+      ],
+      "shoppingItems": [
+        {
+          "label": "Eye mask",
+          "value": "eyeMask",
+          "selected": true,
+          "isSelected": true
+        },
+        {
+          "label": "Head phone",
+          "selected": true,
+          "value": "headPhone",
+          "isSelected": true
+        }
+      ],
+      "totalSeat": 100,
+      "passengerId": []
+    }
+  ],
+  "seatMap": [
+    {
+      "id": "f1",
+      "totalSeat": 100,
+      "veg": {
+        "seat": [
+          "93"
+        ],
+        "color": "green"
+      },
+      "nonVeg": {
+        "seat": [
+          "98",
+          "12",
+          "73",
+          "2",
+          "74",
+          "95",
+          "28"
+        ],
+        "color": "red"
+      },
+      "vegan": {
+        "seat": [
+          "3",
+          "15",
+          "1",
+          "",
+          "8",
+          "84",
+          "96",
+          "99"
+        ],
+        "color": "red"
+      },
+      "checkInSeat": {
+        "seat": [
+          "3",
+          "55",
+          "42",
+          "96"
+        ],
+        "color": "green"
+      },
+      "checkOut": {
+        "seat": [
+          "93",
+          "82",
+          "12",
+          "95"
+        ],
+        "color": "skyblue"
+      },
+      "passnegerWithInfant": {
+        "seat": [
+          "98",
+          "3",
+          "74",
+          "87",
+          "73",
+          "93",
+          "5",
+          "95",
+          "99"
+        ],
+        "color": "blue"
+      },
+      "passnegerWithWheelChair": {
+        "seat": [
+          "74",
+          "87",
+          "93",
+          "91",
+          "82",
+          "1"
+        ],
+        "color": "red"
+      }
+    },
+    {
+      "id": "f2",
+      "totalSeat": 100,
+      "veg": {
+        "seat": [
+          "5"
+        ],
+        "color": "green"
+      },
+      "nonVeg": {
+        "seat": [
+          "2"
+        ],
+        "color": "red"
+      },
+      "vegan": {
+        "seat": [
+          "14",
+          "24"
+        ],
+        "color": "red"
+      },
+      "checkInSeat": {
+        "seat": [
+          "2",
+          "14"
+        ],
+        "color": "green"
+      },
+      "checkOut": {
+        "seat": [
+          "5",
+          "24"
+        ],
+        "color": "skyblue"
+      },
+      "passnegerWithInfant": {
+        "seat": [
+          "2"
+        ],
+        "color": "blue"
+      },
+      "passnegerWithWheelChair": {
+        "seat": [
+          "2"
+        ],
+        "color": "red"
+      }
+    },
+    {
+      "id": "f3",
+      "totalSeat": 100,
+      "veg": {
+        "seat": [],
+        "color": "green"
+      },
+      "nonVeg": {
+        "seat": [],
+        "color": "red"
+      },
+      "vegan": {
+        "seat": [
+          "3"
+        ],
+        "color": "red"
+      },
+      "checkInSeat": {
+        "seat": [
+          "3"
+        ],
+        "color": "green"
+      },
+      "checkOut": {
+        "seat": [],
+        "color": "skyblue"
+      },
+      "passnegerWithInfant": {
+        "seat": [],
+        "color": "blue"
+      },
+      "passnegerWithWheelChair": {
+        "seat": [],
+        "color": "red"
+      }
+    },
+    {
+      "id": "f4",
+      "totalSeat": 100,
+      "veg": {
+        "seat": [],
+        "color": "green"
+      },
+      "nonVeg": {
+        "seat": [
+          "3"
+        ],
+        "color": "red"
+      },
+      "vegan": {
+        "seat": [],
+        "color": "red"
+      },
+      "checkInSeat": {
+        "seat": [
+          "3"
+        ],
+        "color": "green"
+      },
+      "checkOut": {
+        "seat": [],
+        "color": "skyblue"
+      },
+      "passnegerWithInfant": {
+        "seat": [],
+        "color": "blue"
+      },
+      "passnegerWithWheelChair": {
+        "seat": [],
+        "color": "red"
+      }
+    },
+    {
+      "id": "f5",
+      "totalSeat": 100,
+      "veg": {
+        "seat": [],
+        "color": "green"
+      },
+      "nonVeg": {
+        "seat": [],
+        "color": "red"
+      },
+      "vegan": {
+        "seat": [],
+        "color": "red"
+      },
+      "checkInSeat": {
+        "seat": [],
+        "color": "green"
+      },
+      "checkOut": {
+        "seat": [],
+        "color": "skyblue"
+      },
+      "passnegerWithInfant": {
+        "seat": [],
+        "color": "blue"
+      },
+      "passnegerWithWheelChair": {
+        "seat": [],
+        "color": "red"
+      }
+    }
+  ],
+  "currentUser": {
+    "role": "staff",
+    "username": "akshay.jadhav.aj1@gmail.com"
+  }
+}
